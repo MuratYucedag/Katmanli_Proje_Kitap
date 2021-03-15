@@ -1,0 +1,15 @@
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\14may\source\repos\KatmanliMimariOrnek\BusinessLayer\obj\Debug\BusinessLayer.pdb
